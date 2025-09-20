@@ -7,7 +7,7 @@ This is an Ai based Dungeon Crawler that I am making using CC: Tweaked
 ## Quick Start Guide
 
 1. Go to [Google AI Studio](https://aistudio.google.com/apikey) to get a Gemini API key.
-2. In Minecraft, run: wget run https://raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeons_Downloader.lua
+2. In Minecraft, run: wget run raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeons_Downloader.lua
 3. Run CC-Dungeons and paste Gemini API key when prompted.
 
 ## What each symbol means.
