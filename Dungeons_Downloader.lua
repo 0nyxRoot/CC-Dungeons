@@ -13,3 +13,4 @@ end
 
 term.clear()
 print("Exiting...")
+sleep(1)
