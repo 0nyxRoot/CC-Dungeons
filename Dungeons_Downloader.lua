@@ -7,8 +7,8 @@ answer = string.lower(answer)
 if answer == "y" then
   term.clear()
   print("Downloading...")
-  wget https://raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeons.lua CC-Dungeons.lua
-  wget https://raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeon_Gen.lua Dungeon_Gen.lua
+  wget raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeons.lua CC-Dungeons.lua
+  wget raw.githubusercontent.com/0nyxRoot/CC-Dungeons/refs/heads/main/Dungeon_Gen.lua Dungeon_Gen.lua
 end
 
 term.clear()
